@@ -1,5 +1,7 @@
 # 基于ESP32最小系统的便携钥匙扣开发板
 
+![图片描述](docs/images/ESP32S3-Minimum-System-Board.png)
+
 ## 硬件架构
 
 ### MCU
@@ -65,7 +67,7 @@ https://oshwhub.com/galiang/keil
 
 ## Manufacturing
 
-Simply download the [Gerber_Keil_ESP32S3-Minimum-System-Board](Gerber_Keil_ESP32S3-Minimum-System-Board) folder and upload it to your preferred manufacturer
+Simply download the [Gerber_Keil_ESP32S3-Minimum-System-Board](Gerber_Keil_ESP32S3-Minimum-System-Board) folder and submit it to your PCB manufacturer for production.
 
 ## Acknowledgments
 
